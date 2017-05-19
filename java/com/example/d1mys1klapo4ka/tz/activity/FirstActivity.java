@@ -52,6 +52,7 @@ public class FirstActivity extends AppCompatActivity implements View.OnClickList
 
                     intent = new Intent(FirstActivity.this, ThirdActivity.class);
                     intent.putExtra("email",email.getText().toString());
+                    finish();
                     startActivity(intent);
 
                 }else {
