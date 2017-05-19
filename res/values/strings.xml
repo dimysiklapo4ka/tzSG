@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TZ</string>
+    <string name="hint_email">Введите email</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="bt_come">Войти</string>
+    <string name="bt_registration">Регистрация</string>
+    <string name="hint_password_confirmation">Повторите пароль</string>
+    <string name="bt_register">Зарегистрировать</string>
+    <string name="your_email">Ваш email</string>
+    <string name="bt_exit">Выйти</string>
+</resources>
